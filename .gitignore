@@ -1,3 +1,7 @@
+# o
+
+GoogleNews-vectors-negative300.bin
+glove.6B.100d.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
